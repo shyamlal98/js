@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "\"Javascript Learning and developing skills for professional growth.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamlal98/js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Shyam Lal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyamlal98/js/issues"
+  },
+  "homepage": "https://github.com/shyamlal98/js#readme"
+}
