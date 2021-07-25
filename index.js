@@ -11,15 +11,15 @@
 //Reduce method used for resulting single value, and flatten array
 //reduce(accumulator,currentValue,index,sourceArray)
 
-let arr = [5,6,2]
+// let arr = [5,6,2]
 
 
-let sum = arr.reduce((accumulator,currElem,index,arr)=>{
-    debugger;
-    return accumulator+=currElem;
-},7)
+// let sum = arr.reduce((accumulator,currElem,index,arr)=>{
+//     debugger;
+//     return accumulator+=currElem;
+// },7)
 
-console.log(sum);
+// console.log(sum);
 
 // substring and slice :=> substrinig doesnot accept -ve value substring(8,-x) => 0 to 8 of string
 //substr(-x) last x character of string replac()
@@ -29,3 +29,4 @@ console.log(sum);
 
 //oops in js
 
+console.log(this);
