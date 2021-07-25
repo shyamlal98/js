@@ -1,2 +1,0 @@
-# js
-Java Script Learning
